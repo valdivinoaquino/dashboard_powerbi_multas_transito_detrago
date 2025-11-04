@@ -18,7 +18,7 @@ O dashboard foi projetado para responder perguntas-chave sobre as multas de trâ
 * **Comportamento Temporal:** Identificação dos horários e períodos do dia com maior número de ocorrências.
 * **Variação Mensal:** Análise da sazonalidade e tendência das multas ao longo dos meses.
 * **Análise Geográfica (Mapa):** Distribuição espacial das multas por cidade, permitindo uma análise focada em áreas de maior risco.
-* **Drill-down (Tooltip):** Ao interagir com o mapa, o **Tooltip** mostra a distribuição de Gravidade e Tipo de Veículo para a cidade selecionada (ex: Rio Verde - GO).
+* **Drill-down (Tooltip):** Ao interagir com o mapa, o **Tooltip** mostra a distribuição de Gravidade e Tipo de Veículo para a cidade selecionada (ex: Aparecida de Goiânia - GO).
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -35,7 +35,8 @@ Para demonstrar a interatividade e a riqueza de detalhes do projeto, incluímos 
 
 * **KPIs e Filtros:** Demonstração do painel de controle e das opções de segmentação.
 * **Tooltip em Ação:** Visualização do *drill-down* ao passar o mouse sobre o mapa.
-* **[Adicione uma linha se tiver outra imagem]**
+
+<img width="1776" height="1011" alt="image" src="https://github.com/user-attachments/assets/ad9ccaf8-80fa-46d4-8cf3-8ac4d555da02" />
 
 ## ✒️ Autor
 
