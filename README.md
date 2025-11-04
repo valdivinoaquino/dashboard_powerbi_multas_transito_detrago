@@ -1,5 +1,6 @@
 # dashboard_powerbi_multas_transito_detrago
-# 📊 Dashboard de Análise de Multas de Trânsito [DETRAN GO] - Power BI
+# 📊 Dashboard de Análise de Multas de Trânsito [DETRAN GO]
+## 📈 Power BI 📉
 
 ## 🖼️ Visão Geral do Dashboard
 
